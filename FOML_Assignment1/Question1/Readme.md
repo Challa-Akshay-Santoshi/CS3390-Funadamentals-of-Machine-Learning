@@ -25,5 +25,7 @@ Our data has the following elements:
             This attribute represents if there is any class next to it or not
 
 Excecution:
-    -- OPEN THE FILE WITH APPROPRIATE APPLICATION. IT IS BETTER BE JUPITER NOTEBOOK
+
+    -- OPEN THE FILE WITH APPROPRIATE APPLICATION. IT IS BETTER BE JUPYTER NOTEBOOK
+    
     -- The just run all blocks together
