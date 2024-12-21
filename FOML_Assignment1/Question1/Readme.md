@@ -2,8 +2,10 @@ FOML Assignemnt 1, Question 1
 
 In this problem, we have collected two weeks data of the time taken to complete the meals and the appropriate factors that would effect this time
 Our data has the following elements:
+
     --> time_taken(mins):
             This attribute stores the time taken to complete the meals, measured in minutes
+            
     --> Type:
             Type indicates the type of the meals such as breakfast, lunch, dinner. For breakfast, type is 0 and for lunch, type is 1 and for dinner, type is 2
     --> day:
