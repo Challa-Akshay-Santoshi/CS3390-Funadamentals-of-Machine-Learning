@@ -28,4 +28,4 @@ Excecution:
 
     -- OPEN THE FILE WITH APPROPRIATE APPLICATION. IT IS BETTER BE JUPYTER NOTEBOOK
     
-    -- The just run all blocks together
+    -- Then just run all blocks together
